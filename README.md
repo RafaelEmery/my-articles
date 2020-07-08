@@ -5,7 +5,7 @@ Dei início ao hábito de escrever histórias no Medium. A ideia principal é po
 ## :sos: Aonde ler?
 
 - Acompanhe este repositório, dando estrela ou clicando em *Watch* acima.
-- Através do [meu perfil no Médium](https://medium.com/@rafael.emerycade)
+- Através do [meu perfil no Medium](https://medium.com/@rafael.emerycade)
 - Pelo [meu perfil no LinkedIn](https://www.linkedin.com/in/rafael-emery-c-poloni-310a35165/)
 
 ## :busts_in_silhouette: Quem é seu público?
