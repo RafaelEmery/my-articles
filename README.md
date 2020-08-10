@@ -18,9 +18,10 @@ Outro público que gostaria de escrever para são meus amigos e conhecidos, que 
 
 ### Usando o GitHub:
 - [6 dicas e referências para evoluir com o GitHub](https://medium.com/@rafael.emerycade/6-dicas-e-refer%C3%AAncias-para-evoluir-com-o-github-769da8157d11): Aqui, passo três dicas e três referências de tipos de repositórios que fizeram com que o GitHub seja um bom canal de comunicação e aprendizado com a comunidade.
+- [Como eu me apresento no GitHub](https://medium.com/@rafael.emerycade/como-eu-me-apresento-no-github-d7dcca94dd08): Aqui, mostro como criar um repositório em destaque no perfil e passo refererências para templates e outros recursos com dados.
 
 
-## Recadinho final
+## Recado final
 
 Dê uma estrela neste repositório, e compartilhe se puder! Beleza?
 
